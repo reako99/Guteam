@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=서해용-nl-&fontSize=50&fontColor=fff" />
-
-
 ## Guteam
 
 > 해당 프로젝트는 spring으로 구현한 게임 커뮤니티 사이트입니다.
@@ -67,4 +64,3 @@ downloadPath.img=\\Documents\\GuteamDownload
 
 - **총 제작인원:** <a href="https://github.com/reako99">서해용</a>, <a href="https://github.com/Jeon-hwang">전황</a>, <a href="https://github.com/DHKwak00">곽동훈</a> | 해당 링크를 누르면 깃허브 페이지로 이동합니다.
 - **제작 기간:** 2023/10/20 ~ 2023/12/17
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
