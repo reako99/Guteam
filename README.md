@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=서해용-nl-&fontSize=50&fontColor=fff" />
 
+
 ## Guteam
 
 > 해당 프로젝트는 spring으로 구현한 게임 커뮤니티 사이트입니다.
