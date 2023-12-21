@@ -180,3 +180,7 @@ downloadPath.img=\\Documents\\GuteamDownload
 
 - **총 제작인원:** <a href="https://github.com/reako99">서해용</a>, <a href="https://github.com/Jeon-hwang">전황</a>, <a href="https://github.com/DHKwak00">곽동훈</a> | 해당 링크를 누르면 깃허브 페이지로 이동합니다.
 - **제작 기간:** 2023/10/20 ~ 2023/12/17
+- 
+## 시연영상
+[![Guteam Youtube](https://img.youtube.com/vi/YQktP06TqWM/0.jpg)](https://www.youtube.com/watch?v=YQktP06TqWM)
+[![Guteam Youtube](https://img.youtube.com/vi/xDtbXSP46xQ/0.jpg)](https://www.youtube.com/watch?v=xDtbXSP46xQ)
