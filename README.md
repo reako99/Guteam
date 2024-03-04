@@ -171,7 +171,7 @@ downloadPath.img=\\Documents\\GuteamDownload
 
 ## ERD - Diagram
 
-![guteam ERD 최종본](https://github.com/reako99/Guteam/assets/137850852/c8ba80d6-cbbc-40fd-bc51-d0978f83906e)
+![GUTEAM](https://github.com/reako99/Guteam/assets/137850852/eb43f823-5487-4c14-a7dc-e5831377d4ca)
 
 ## Use Case
 
